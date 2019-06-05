@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		<ul><li>SensorLightTuto</li> *
+		<li>com.android2ee.android.tuto.sensor.light</li><li>25 nov.
+		2011</li>*
+		<li>======================================================</li>*
+		<li>Projet : Mathias Seguy Project</li><li>Produit par MSE.</li> *
+		/**<ul>Android Tutorial, An <strong>Android2EE</strong>'s
+		project.</br>Produced by <strong>Dr. Mathias SEGUY</strong>.</br> *
+		Delivered by <strong>http://android2ee.com/</strong></br>Belongs to
+		<strong>Mathias Seguy</strong></br>
+		****************************************************************************************************************</br>
+		* This code is free for any usage but can't be distribute.</br>The
+		distribution is reserved to the site
+		<strong>http://android2ee.com</strong>.</br>The intelectual
+		property belongs to <strong>Mathias Seguy</strong>.</br> *
+		<em>http://mathias-seguy.developpez.com/</em></br> </br>*
+		*****************************************************************************************************************</br>
+		* Ce code est libre de toute utilisation mais n'est pas
+		distribuable.</br>Sa distribution est reservée au site
+		<strong>http://android2ee.com</strong>.</br>Sa propriété
+		intellectuelle appartient à <strong>Mathias Seguy</strong>.</br> *
+		<em>http://mathias-seguy.developpez.com/</em></br> </br> *
+		*****************************************************************************************************************</br>
+	-->
+	<resources>
+	<string name="hello">Hello World, SensorLightTutoActivity!</string>
+	<string name="app_name">SensorLightTuto</string>
+	<string name="light_value">The light value is %1$d lux (same brightness than
+		%2$s)</string>
+	<string name="LIGHT_NO_MOON">a night without moon</string>
+	<string name="LIGHT_FULLMOON">a night with full moon</string>
+	<string name="LIGHT_CLOUDY">a cloudy day</string>
+	<string name="LIGHT_SUNRISE">a sunrise moment</string>
+	<string name="LIGHT_OVERCAST">an overcast moment</string>
+	<string name="LIGHT_SHADE">under the shades</string>
+	<string name="LIGHT_SUNLIGHT">in the sunlight</string>
+	<string name="LIGHT_SUNLIGHT_MAX">burning in the sun</string>
+</resources>
